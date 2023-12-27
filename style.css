@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    background-position: 0%;
+    background-image: url("")
+}
+.top1{
+    text-align: center;
+    height:60px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+.navbar{ 
+  padding-left: 10px;
+    margin: 50px 50px 50px 50px;
+    height: 45px;
+    color:beige;
+    align-items: center;
+    background-color: black;
+    border-top-right-radius:20px ;
+    border-bottom-right-radius:20px ;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border: 1px solid rgb(253, 248, 249);
+}
+.nav-logo{
+    height: 30px;
+    width: 30;}
+    /*.logo{ 
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg");
+    background-size: cover;
+    height:30px;
+    width: 30px;
+}*/
+.border{
+    border: 2px solid transparent;
+    border-style: dotted;
+}
+.border:hover{
+    border:2px solid white;
+}
+.country{
+    position: fixed;
+    font-weight: bold;
+    font-size: 2rem;
+    color:#cccccc;
+}
+.loc{ 
+    position: fixed;
+    height: 10px;
+    
+}
+.nav-links{
+    align-items: center;
+    margin-left: 50px;
+    display: flex;
+    padding: 5px 5px 5px 5px 5px;
+}
+
+
+

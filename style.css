@@ -8,8 +8,45 @@ body{
     background-size: cover;
 }
 .top1{
-    text-align: center;
+    text-align:center;
     height:60px;
     background-color: aqua;
     border: 1px solid black;
 }
+.navbar{ text-decoration: none;
+    padding-left: 10px;
+      margin: 50px 50px 50px 50px;
+      height: 45px;
+      color:beige;
+      align-items: center;
+      background-color: rgb(17, 1, 1);
+      border-top-right-radius:20px ;
+      border-bottom-right-radius:20px ;
+      border-bottom-left-radius: 20px;
+      border-top-left-radius: 20px;
+      border: 1px solid rgb(253, 248, 249);
+  }
+  .menubar{
+    text-align: center;
+    color:bisque;
+  }
+  .menubar ul {
+    font-size: 20px;
+    display: inline-flex;
+    list-style: none;
+    color:white;
+  }
+  a {
+    color: antiquewhite;
+  }
+.menubar ul li{
+    
+    padding-right: 70px;
+}
+.menubar ul li :hover{
+    transition: 2s;
+    cursor: pointer;
+    color: rgb(236, 8, 77);
+}
+
+

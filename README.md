@@ -1,1 +1,1 @@
-Own Treatement Project .
+Own Way Treatement Project .
